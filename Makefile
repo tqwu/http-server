@@ -1,5 +1,3 @@
-# Taken from the resources repository of CSE-130
-
 EXECBIN  = httpserver
 SOURCES  = $(wildcard *.c)
 HEADERS  = $(wildcard *.h)

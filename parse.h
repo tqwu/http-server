@@ -13,8 +13,6 @@
 #include "types.h"
 #include "asgn2_helper_funcs.h"
 
-// Partial code taken from the CSE 130 resources repository, regex.test.c in pracitca
-
 // Function to get size of file using sys/stat.h
 int getFileSize(char *filename);
 

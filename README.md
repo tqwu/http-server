@@ -2,7 +2,7 @@
 This server creates, listens, and accepts connections from clients that arrive on the specified port. The server will then process the bytes sent by the clients using the HTTP protocol.
 
 ## Build/Clean
-Build/clean this program using the Makefile included in the asgn2 folder and these following instructions:
+Build/clean this program with the following commands:
 
     $ make
     $ make all
